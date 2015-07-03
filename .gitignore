@@ -1,0 +1,6 @@
+*nimcache*
+*nimtags*
+.komodotools
+*.komodoproject
+pastagen
+example/example
